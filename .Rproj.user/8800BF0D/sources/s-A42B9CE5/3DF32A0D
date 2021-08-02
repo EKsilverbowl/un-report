@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1627911525771.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2581019115",
+    "id" : "3DF32A0D",
+    "lastKnownWriteTime" : 1627920012,
+    "last_content_update" : 1627920012234,
+    "path" : "C:/Users/eungi/Desktop/un-report/gdp_population.R",
+    "project_path" : "gdp_population.R",
+    "properties" : {
+        "cursorPosition" : "95,0",
+        "scrollLine" : "76",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
